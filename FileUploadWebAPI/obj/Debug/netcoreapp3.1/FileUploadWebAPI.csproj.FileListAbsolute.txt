@@ -1,0 +1,5 @@
+C:\Users\TAHI Siham\source\repos\FileUploadWebAPI\FileUploadWebAPI\obj\Debug\netcoreapp3.1\FileUploadWebAPI.csprojAssemblyReference.cache
+C:\Users\TAHI Siham\source\repos\FileUploadWebAPI\FileUploadWebAPI\obj\Debug\netcoreapp3.1\FileUploadWebAPI.AssemblyInfoInputs.cache
+C:\Users\TAHI Siham\source\repos\FileUploadWebAPI\FileUploadWebAPI\obj\Debug\netcoreapp3.1\FileUploadWebAPI.AssemblyInfo.cs
+C:\Users\TAHI Siham\source\repos\FileUploadWebAPI\FileUploadWebAPI\obj\Debug\netcoreapp3.1\FileUploadWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\TAHI Siham\source\repos\FileUploadWebAPI\FileUploadWebAPI\obj\Debug\netcoreapp3.1\FileUploadWebAPI.MvcApplicationPartsAssemblyInfo.cache

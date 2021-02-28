@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -11,5 +12,12 @@ namespace FileUploadWebAPI.Controllers
     [ApiController]
     public class FileUploadController : ControllerBase
     {
+        private static IWebHostEnvironment _webHostEnvironment; 
+
+       public FileUploadController(IWebHostEnvironment webHostEnvironment)
+        {
+            _webHostEnvironment = webHostEnvironment;
+        }
+
     }
 }
